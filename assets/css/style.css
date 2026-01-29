@@ -627,6 +627,7 @@ scale: 1.1;
   .education .box-container .box {
     flex-direction: column;
     width: 100%;
+    height: fit-content;
   }
   .education .box-container .box .image {
     width: 100%;
